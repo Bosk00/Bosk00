@@ -1,20 +1,19 @@
-## Hi there 👋
+### Hi, I'm Filip 👋
+
+Building and shipping projects across trading systems, self-hosted infrastructure, and small full-stack apps — usually solo, end to end, from architecture to deployment.
+
+#### 🔎 A few things I've built
+
+- **[market-surveillance-toolkit](https://github.com/Bosk00/market-surveillance-toolkit)** — real-time order-book anomaly detection, entity-level wallet monitoring, and an ML-based risk-scoring model, with independent audit/validation pipelines
+- **[hibid-auction-watcher](https://github.com/Bosk00/hibid-auction-watcher)** — a self-hosted FastAPI app that scores and ranks auction listings per person, with a learned-feedback layer on top of rule-based scoring
+- **[homelab](https://github.com/Bosk00/homelab)** — Docker Compose infrastructure for a household media/automation stack, with network isolation and least-privilege container config
+
+#### 🛠️ Tech I work with
+
+`Python` · `FastAPI` · `Docker` · `asyncio` · `XGBoost / scikit-learn` · `SQLite` · `Streamlit`
+
+---
 
 <!-- QUOTE:START -->
-*Season 5, Episode 9: “Choose your enemies wisely, as they may be your last hope.”*
+*"Choose your enemies wisely, as they may be your last hope."*
 <!-- QUOTE:END -->
-
-<!--
-**Bosk00/Bosk00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

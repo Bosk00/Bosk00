@@ -13,10 +13,14 @@ README_PATH = Path(__file__).parent / "README.md"
 START = "<!-- QUOTE:START -->"
 END = "<!-- QUOTE:END -->"
 
+# Strips a leading "Season X, Episode Y: " label so only the quote itself shows.
+EPISODE_PREFIX = re.compile(r"^Season \d+, Episode \d+:\s*")
+
 
 def main():
     readme = README_PATH.read_text(encoding="utf-8")
     quote = get_random_quote()
+    quote = EPISODE_PREFIX.sub("", quote)
 
     pattern = re.compile(re.escape(START) + r".*?" + re.escape(END), re.DOTALL)
     if not pattern.search(readme):
