@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!-- QUOTE:START -->
-*"In trading, your job is not to predict, but to manage risk."*
+*Season 5, Episode 9: “Choose your enemies wisely, as they may be your last hope.”*
 <!-- QUOTE:END -->
 
 <!--
