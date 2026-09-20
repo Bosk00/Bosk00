@@ -26,5 +26,5 @@ I build software end-to-end — from architecture to deployment. Past projects s
 ---
 
 <!-- QUOTE:START -->
-*"Choose your enemies wisely, as they may be your last hope."*
+*Season 5, Episode 3: “To seek something is to believe in its possibility.”*
 <!-- QUOTE:END -->
