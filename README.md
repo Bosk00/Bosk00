@@ -2,7 +2,7 @@
 
 I own projects end-to-end — architecture, decisions, deployment. Past work spans trading systems, self-hosted infrastructure, and small full-stack apps.
 
-📫 [Email](mailto:carry-harmony-0g@icloud.com)
+📫 [Email](mailto:contact@bosknumis.me)
 
 #### 🔎 A few things I've built
 
