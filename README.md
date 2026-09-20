@@ -26,5 +26,5 @@ I own projects end-to-end — architecture, decisions, deployment. Past work spa
 ---
 
 <!-- QUOTE:START -->
-*“The worst thing about prison was the dementors.” — Michael Scott*
+*“If I don’t have some cake soon, I might die.” — Stanley Hudson*
 <!-- QUOTE:END -->
