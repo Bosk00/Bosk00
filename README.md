@@ -1,6 +1,6 @@
 ### Hi, I'm Filip 👋
 
-I build software end-to-end — from architecture to deployment. Past projects span trading systems, self-hosted infrastructure, and small full-stack apps.
+I own projects end-to-end — architecture, decisions, deployment. Past work spans trading systems, self-hosted infrastructure, and small full-stack apps.
 
 📫 [Email](mailto:carry-harmony-0g@icloud.com)
 
