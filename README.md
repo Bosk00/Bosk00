@@ -26,5 +26,5 @@ I build software end-to-end — from architecture to deployment. Past projects s
 ---
 
 <!-- QUOTE:START -->
-*“I say dance, they say, ‘How high?'” — Michael Scott*
+*“The worst thing about prison was the dementors.” — Michael Scott*
 <!-- QUOTE:END -->
