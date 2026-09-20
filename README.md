@@ -15,5 +15,5 @@ Building and shipping projects across trading systems, self-hosted infrastructur
 ---
 
 <!-- QUOTE:START -->
-*"Choose your enemies wisely, as they may be your last hope."*
+*“Survive first. Thrive later.”*
 <!-- QUOTE:END -->
