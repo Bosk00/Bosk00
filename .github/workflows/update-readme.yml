@@ -21,7 +21,7 @@ jobs:
           python-version: "3.11"
 
       - name: Pick a new quote and update README
-        run: python update_readme.py
+        run: python scripts/update_readme.py
 
       - name: Commit and push if changed
         run: |
