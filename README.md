@@ -2,7 +2,7 @@
 
 I build software end-to-end — from architecture to deployment. Past projects span trading systems, self-hosted infrastructure, and small full-stack apps.
 
-📫 [Email](mailto:your-email@example.com)
+📫 [Email](mailto:carry-harmony-0g@icloud.com)
 
 #### 🔎 A few things I've built
 
