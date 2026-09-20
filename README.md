@@ -17,7 +17,7 @@ I own projects end-to-end — architecture, decisions, deployment. Past work spa
 
 **Daily:** `Linux` · `Docker` · `Python`
 
-**Touched in specific projects:** `SQLite` · `FastAPI` · `asyncio` / `aiohttp` · `websockets` · `XGBoost / scikit-learn` · `pandas` · `SHAP` · `Streamlit` · `Jinja2` · `APScheduler`
+**Touched in specific projects:** `SQLite` · `FastAPI` · `asyncio / aiohttp` · `websockets` · `XGBoost / scikit-learn` · `pandas` · `SHAP` · `Streamlit` · `Jinja2` · `APScheduler`
 
 - 🔭 Currently researching a numismatic article on Paeonian coinage
 - 🌱 Currently learning ethical hacking (LinkedIn Learning)
