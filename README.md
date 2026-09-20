@@ -21,7 +21,7 @@ I own projects end-to-end — architecture, decisions, deployment. Past work spa
 
 - 🔭 Currently researching a numismatic article on Paeonian coinage
 - 🌱 Currently learning ethical hacking (LinkedIn Learning)
-- ⚡ Fun fact: Filip is the Slavic transliteration of the Greek Philip — "friend of horses"
+- ⚡ Fun fact: Filip is the Slavic transliteration of the Greek Philip — which translates to "friend of horses"
 
 ---
 
