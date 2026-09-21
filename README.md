@@ -26,5 +26,5 @@ I own projects end-to-end — architecture, decisions, deployment. Past work spa
 ---
 
 <!-- QUOTE:START -->
-*“If I don’t have some cake soon, I might die.” — Stanley Hudson*
+*“Dwight you ignorant sl*t.” — Michael Scott*
 <!-- QUOTE:END -->
