@@ -26,5 +26,5 @@ I own projects end-to-end — architecture, decisions, deployment. Past work spa
 ---
 
 <!-- QUOTE:START -->
-*“Dwight you ignorant sl*t.” — Michael Scott*
+*“Oh, you’re paying way too much for worms. Who’s your worm guy?” — Creed Bratton*
 <!-- QUOTE:END -->
