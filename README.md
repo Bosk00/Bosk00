@@ -26,5 +26,5 @@ I own projects end-to-end — architecture, decisions, deployment. Past work spa
 ---
 
 <!-- QUOTE:START -->
-*“Oh, you’re paying way too much for worms. Who’s your worm guy?” — Creed Bratton*
+*“Fool me once, strike one. Fool me twice, strike three.” — Michael Scott*
 <!-- QUOTE:END -->
