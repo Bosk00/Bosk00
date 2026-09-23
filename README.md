@@ -26,5 +26,5 @@ I own projects end-to-end — architecture, decisions, deployment. Past work spa
 ---
 
 <!-- QUOTE:START -->
-*“Fool me once, strike one. Fool me twice, strike three.” — Michael Scott*
+*“I got six numbers. One more and it would have been a complete phone number.” — Kevin Malone*
 <!-- QUOTE:END -->
