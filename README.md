@@ -1,28 +1,30 @@
 ### Hi, I'm Filip 👋
 
-I own projects end-to-end — architecture, decisions, deployment. Past work spans trading systems, self-hosted infrastructure, and small full-stack apps.
+My to-build list is longer than my free time, but a few things have made it out the door. 
 
-📫 [Email](mailto:contact@bosknumis.me)
+📫 [contact@bosknumis.me](mailto:contact@bosknumis.me) · 🌐 [bosknumis.me](https://bosknumis.me)
 
-#### 🔎 A few things I've built
+#### 🔎 Things I've built
 
-- **[market-surveillance-toolkit](https://github.com/Bosk00/market-surveillance-toolkit)** — real-time order-book anomaly detection, entity-level wallet monitoring, and an ML-based risk-scoring model, with independent audit/validation pipelines
-- **[hibid-auction-watcher](https://github.com/Bosk00/hibid-auction-watcher)** — a self-hosted FastAPI app that scores and ranks auction listings per person, with a learned-feedback layer on top of rule-based scoring
+- **[market-surveillance-toolkit](https://github.com/Bosk00/market-surveillance-toolkit)**: real-time order-book anomaly detection, entity-level wallet monitoring, and an ML risk-scoring model, backed by independent audit and validation pipelines.
+- **[hibid-auction-watcher](https://github.com/Bosk00/hibid-auction-watcher)**: a self-hosted FastAPI app that scores and ranks auction listings per person, with a learned-feedback layer on top of the rule-based scoring.
 
-#### 🧰 Actively tinkering with
+#### 🧰 Currently tinkering with
 
-- **[shop sketch](https://bosknumis.me/workshop)** — a browser-based woodworking planner: drag boards around in front, top, side, and 3D views, then get a labeled drawing, cut list, board-foot estimate and an ios only (for now) augmented reality feature 
-- **[homelab](https://github.com/Bosk00/homelab)** — Docker Compose infrastructure for a household media/automation stack, with network isolation and least-privilege container config
+- **[Shop Sketch](https://bosknumis.me/workshop)**: a browser-based woodworking planner. Drag boards around in front, top, side, and 3D views, start from bookshelf, table, or workbench templates, then get a labeled drawing, a cut list (CSV/SVG export), a board-foot estimate, and a cut plan that packs parts onto stock boards and plywood sheets. iOS-only (for now) AR shows your design at true size in your space, and desktop users can beam it to their phone with a QR code (or copy a generated url to send to your device). It all runs client-side, so nothing leaves your browser.
+- **[homelab](https://github.com/Bosk00/homelab)**: Docker Compose infrastructure for a household media and automation stack, with network isolation and least-privilege container config.
 
-#### 🛠️ Tech I work with
+#### 🛠️ Tech
 
-**Daily:** `Linux` · `Docker` · `Python`
+**Daily:** `Linux` · `Docker` · `Python` · `Local LLMs (gpt-oss-20b)` · `AI-assisted dev (Claude)`
 
-**Touched in specific projects:** `SQLite` · `FastAPI` · `asyncio / aiohttp` · `websockets` · `XGBoost / scikit-learn` · `pandas` · `SHAP` · `Streamlit` · `Jinja2` · `APScheduler`
+**Used in this or that project:** `FastAPI` · `asyncio / aiohttp` · `websockets` · `SQLite` · `pandas` · `XGBoost / scikit-learn` · `SHAP` · `Streamlit` · `Jinja2` · `APScheduler` · `Vue 3` · `Three.js` · `Vite` · `HTML` · `CSS` · `JavaScript`
 
-- 🔭 Currently researching a numismatic article on Paeonian coinage
-- 🌱 Currently learning ethical hacking (LinkedIn Learning)
-- ⚡ Fun fact: Filip is the Slavic transliteration of the Greek Philip — which translates to "friend of horses"
+#### 🎲 Off the clock
+
+- 🔭 Researching a numismatic article on Paeonian coinage
+- 🌱 Learning ethical hacking (LinkedIn Learning)
+- 🐴 Fun fact: "Filip" is the Slavic form of the Greek Philip, which means "friend of horses"
 
 ---
 
