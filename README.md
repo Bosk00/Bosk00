@@ -11,7 +11,7 @@ I own projects end-to-end — architecture, decisions, deployment. Past work spa
 
 #### 🧰 Actively tinkering with
 
-- **[shop sketch](https://bosknumis.me/workshop)** — a browser-based woodworking planner: drag boards around in front, top, side, and 3D views, then get a labeled drawing, cut list, and board-foot estimate
+- **[shop sketch](https://bosknumis.me/workshop)** — a browser-based woodworking planner: drag boards around in front, top, side, and 3D views, then get a labeled drawing, cut list, board-foot estimate and an ios only (for now) augmented reality feature 
 - **[homelab](https://github.com/Bosk00/homelab)** — Docker Compose infrastructure for a household media/automation stack, with network isolation and least-privilege container config
 
 #### 🛠️ Tech I work with
