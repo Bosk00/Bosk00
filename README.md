@@ -29,5 +29,5 @@ My to-build list is longer than my free time, but a few things have made it out 
 ---
 
 <!-- QUOTE:START -->
-*“I don’t hate it. I just don’t like it at all and it’s terrible.” — Michael Scott*
+*“I’m always thinking one step ahead, like a carpenter that makes stairs.” — Andy Bernard*
 <!-- QUOTE:END -->
