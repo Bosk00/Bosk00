@@ -29,5 +29,5 @@ My to-build list is longer than my free time, but a few things have made it out 
 ---
 
 <!-- QUOTE:START -->
-*“I’m always thinking one step ahead, like a carpenter that makes stairs.” — Andy Bernard*
+*“There’s a lot of beauty in ordinary things. Isn’t that kind of the point?” — Pam Beesly*
 <!-- QUOTE:END -->
