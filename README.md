@@ -19,7 +19,7 @@ My to-build list is longer than my free time, but a few things have made it out 
 
 **Daily:** `Linux` · `Docker` · `Python` · `Local LLMs (gpt-oss-20b)` · `AI-assisted dev (Claude)`
 
-**Used in this or that project:** `FastAPI` · `asyncio / aiohttp` · `websockets` · `SQLite` · `pandas` · `XGBoost / scikit-learn` · `SHAP` · `Streamlit` · `Jinja2` · `APScheduler` · `Vue 3` · `Three.js` · `Vite` · `HTML` · `CSS` · `JavaScript`
+**Used in this or that project:** `FastAPI` · `asyncio / aiohttp` · `websockets` · `REST API integration` · `SQLite` · `PostgreSQL` · `Scrapy` · `Zyte` · `Heroku` · `Clerk` · `pandas` · `XGBoost / scikit-learn` · `SHAP` · `Streamlit` · `Jinja2` · `APScheduler` · `Vue 3` · `Three.js` · `Vite` · `HTML` · `CSS` · `JavaScript`
 
 #### 🎲 Off the clock
 
