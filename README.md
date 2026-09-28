@@ -30,5 +30,5 @@ My to-build list is longer than my free time, but a few things have made it out 
 ---
 
 <!-- QUOTE:START -->
-*“I got six numbers. One more and it would have been a complete phone number.” — Kevin Malone*
+*“I don’t hate it. I just don’t like it at all and it’s terrible.” — Michael Scott*
 <!-- QUOTE:END -->
