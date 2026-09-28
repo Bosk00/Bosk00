@@ -12,7 +12,7 @@ My to-build list is longer than my free time, but a few things have made it out 
 #### 🧰 Currently tinkering with
 
 - **[Shop Sketch](https://bosknumis.me/workshop)**: a browser-based woodworking planner. Drag boards around in front, top, side, and 3D views, start from bookshelf, table, or workbench templates, then get a labeled drawing, a cut list (CSV/SVG export), a board-foot estimate, and a cut plan that packs parts onto stock boards and plywood sheets. iOS-only (for now) AR shows your design at true size in your space, and desktop users can beam it to their phone with a QR code (or copy a generated url to send to your device). It all runs client-side, so nothing leaves your browser.
-- **[Fetchound](https://fetchound.app)**: a public, multi-user rebuild of hibid-auction-watcher above — same scoring/feedback idea, but hosted, with accounts and per-user search terms instead of one household's local instance. Early pre-release, still wiring up on-demand scraping and scheduled jobs — I'll update this line once I'd actually call it usable.
+- **[Fetchound](https://fetchound.app)**: a public, multi-user rebuild of hibid-auction-watcher above. Same scoring and feedback idea, but hosted, with accounts and per-user search terms, pulling listings from HiBid and eBay. Now in alpha: it's live and working, but expect rough edges. Bug reports and feature requests are welcome.
 - **[homelab](https://github.com/Bosk00/homelab)**: Docker Compose infrastructure for a household media and automation stack, with network isolation and least-privilege container config.
 
 #### 🛠️ Tech
