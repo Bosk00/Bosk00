@@ -30,5 +30,5 @@ My to-build list is longer than my free time, but a few things have made it out 
 ---
 
 <!-- QUOTE:START -->
-*“Fool me once, strike one. Fool me twice, strike three.” — Michael Scott*
+*“I’m fast. To give you a reference point. I’m somewhere between a snake and a mongoose. And a panther.” — Dwight Schrute*
 <!-- QUOTE:END -->
