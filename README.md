@@ -30,5 +30,5 @@ My to-build list is longer than my free time, but a few things have made it out 
 ---
 
 <!-- QUOTE:START -->
-*“I am Beyonce, always.” — Michael Scott*
+*“When Pam gets Michael’s old chair, I get Pam’s old chair. Then I’ll have two chairs. Only one to go.” — Creed Bratton*
 <!-- QUOTE:END -->
