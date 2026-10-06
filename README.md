@@ -30,5 +30,5 @@ My to-build list is longer than my free time, but a few things have made it out 
 ---
 
 <!-- QUOTE:START -->
-*“Who is Justice Beaver?” — Dwight Schrute*
+*“I am a black belt in gift wrapping.” — Jim Halpert*
 <!-- QUOTE:END -->
