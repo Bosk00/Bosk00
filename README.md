@@ -30,5 +30,5 @@ My to-build list is longer than my free time, but a few things have made it out 
 ---
 
 <!-- QUOTE:START -->
-*“I am a black belt in gift wrapping.” — Jim Halpert*
+*“I say dance, they say, ‘How high?'” — Michael Scott*
 <!-- QUOTE:END -->
