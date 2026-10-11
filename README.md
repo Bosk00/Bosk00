@@ -31,5 +31,5 @@ My to-build list is longer than my free time, but a few things have made it out 
 ---
 
 <!-- QUOTE:START -->
-*“There’s a lot of beauty in ordinary things. Isn’t that kind of the point?” — Pam Beesly*
+*“Oh, you’re paying way too much for worms. Who’s your worm guy?” — Creed Bratton*
 <!-- QUOTE:END -->
