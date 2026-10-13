@@ -33,5 +33,5 @@ My to-build list is longer than my free time, but a few things have made it out 
 ---
 
 <!-- QUOTE:START -->
-*“Tell him to call me ASAP as possible.” — Michael Scott*
+*“Bob Vance, Vance Refrigeration.” — Bob Vance*
 <!-- QUOTE:END -->
