@@ -35,5 +35,5 @@ My to-build list is longer than my free time, but a few things have made it out 
 ---
 
 <!-- QUOTE:START -->
-*“I’m not superstitious, but I am a little stitious.” — Michael Scott*
+*“I wanna do a cartwheel. But real casual-like. Not enough to make a big deal out of it, but I know everyone saw it. One stunning, gorgeous cartwheel.” — Creed Bratton*
 <!-- QUOTE:END -->
