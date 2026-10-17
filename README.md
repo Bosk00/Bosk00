@@ -26,11 +26,7 @@ My to-build list is longer than my free time, but a few things have made it out 
 
 **Used in this or that project:** `FastAPI` · `asyncio / aiohttp` · `websockets` · `REST API integration` · `SMTP` · `SQLite` · `PostgreSQL` · `Scrapy` · `Zyte` · `Heroku` · `Clerk` · `pandas` · `XGBoost / scikit-learn` · `SHAP` · `Streamlit` · `Jinja2` · `APScheduler` · `Vue 3` · `Three.js` · `Vite` · `PWA` · `GitHub Actions` · `HTML` · `CSS` · `JavaScript`
 
-#### 🎲 Off the clock
 
-- 🔭 Researching a numismatic article on Paeonian coinage
-- 🌱 Learning ethical hacking (LinkedIn Learning)
-- 🐴 Fun fact: "Filip" is the Slavic form of the Greek Philip, which means "friend of horses"
 
 ---
 
