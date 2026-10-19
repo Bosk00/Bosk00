@@ -31,5 +31,5 @@ My to-build list is longer than my free time, but a few things have made it out 
 ---
 
 <!-- QUOTE:START -->
-*“Oh, you’re paying way too much for worms. Who’s your worm guy?” — Creed Bratton*
+*“Fool me once, strike one. Fool me twice, strike three.” — Michael Scott*
 <!-- QUOTE:END -->
