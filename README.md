@@ -31,5 +31,5 @@ My to-build list is longer than my free time, but a few things have made it out 
 ---
 
 <!-- QUOTE:START -->
-*“Rit-dit-dit-do-doo!” — Andy Bernard*
+*“I got six numbers. One more and it would have been a complete phone number.” — Kevin Malone*
 <!-- QUOTE:END -->
