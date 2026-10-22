@@ -31,5 +31,5 @@ My to-build list is longer than my free time, but a few things have made it out 
 ---
 
 <!-- QUOTE:START -->
-*“I got six numbers. One more and it would have been a complete phone number.” — Kevin Malone*
+*“I’m not superstitious, but I am a little stitious.” — Michael Scott*
 <!-- QUOTE:END -->
