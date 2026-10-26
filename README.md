@@ -31,5 +31,5 @@ My to-build list is longer than my free time, but a few things have made it out 
 ---
 
 <!-- QUOTE:START -->
-*“I already won the lottery. I was born in the US of A, baby. And as backup, I have a Swiss passport.” — Creed Bratton*
+*“Fool me once, strike one. Fool me twice, strike three.” — Michael Scott*
 <!-- QUOTE:END -->
