@@ -31,5 +31,5 @@ My to-build list is longer than my free time, but a few things have made it out 
 ---
 
 <!-- QUOTE:START -->
-*“Fool me once, strike one. Fool me twice, strike three.” — Michael Scott*
+*“Tell him to call me ASAP as possible.” — Michael Scott*
 <!-- QUOTE:END -->
