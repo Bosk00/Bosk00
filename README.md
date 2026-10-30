@@ -31,5 +31,5 @@ My to-build list is longer than my free time, but a few things have made it out 
 ---
 
 <!-- QUOTE:START -->
-*“You guys I’m, like, really smart now. You don’t even know. You could ask me, ‘Kelly, what’s the biggest company in the world?’ And I’d be like, ‘blah blah blah, blah blah blah blah blah blah.’ Giving you the exact right answer.” — Kelly Kapoor*
+*“Oh, you’re paying way too much for worms. Who’s your worm guy?” — Creed Bratton*
 <!-- QUOTE:END -->
