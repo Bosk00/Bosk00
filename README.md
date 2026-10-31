@@ -31,5 +31,5 @@ My to-build list is longer than my free time, but a few things have made it out 
 ---
 
 <!-- QUOTE:START -->
-*“Oh, you’re paying way too much for worms. Who’s your worm guy?” — Creed Bratton*
+*“The only problem is whenever I try to make a taco, I get too excited and crush it.” — Kevin Malon*
 <!-- QUOTE:END -->
