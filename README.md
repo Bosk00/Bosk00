@@ -31,5 +31,5 @@ My to-build list is longer than my free time, but a few things have made it out 
 ---
 
 <!-- QUOTE:START -->
-*“I wanna do a cartwheel. But real casual-like. Not enough to make a big deal out of it, but I know everyone saw it. One stunning, gorgeous cartwheel.” — Creed Bratton*
+*“There are always a million reasons not to do something.” — Jan Levinson*
 <!-- QUOTE:END -->
