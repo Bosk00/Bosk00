@@ -31,5 +31,5 @@ My to-build list is longer than my free time, but a few things have made it out 
 ---
 
 <!-- QUOTE:START -->
-*“There are always a million reasons not to do something.” — Jan Levinson*
+*“Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me.” — Michael Scott*
 <!-- QUOTE:END -->
