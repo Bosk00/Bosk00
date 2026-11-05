@@ -31,5 +31,5 @@ My to-build list is longer than my free time, but a few things have made it out 
 ---
 
 <!-- QUOTE:START -->
-*“Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me.” — Michael Scott*
+*“I wanted to eat a pig in a blanket, in a blanket.” — Kevin Malone*
 <!-- QUOTE:END -->
