@@ -31,5 +31,5 @@ My to-build list is longer than my free time, but a few things have made it out 
 ---
 
 <!-- QUOTE:START -->
-*“I wanted to eat a pig in a blanket, in a blanket.” — Kevin Malone*
+*“I’m not superstitious, but I am a little stitious.” — Michael Scott*
 <!-- QUOTE:END -->
