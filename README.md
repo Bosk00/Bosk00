@@ -31,5 +31,5 @@ My to-build list is longer than my free time, but a few things have made it out 
 ---
 
 <!-- QUOTE:START -->
-*“I am Beyonce, always.” — Michael Scott*
+*“I don’t hate it. I just don’t like it at all and it’s terrible.” — Michael Scott*
 <!-- QUOTE:END -->
