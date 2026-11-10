@@ -31,5 +31,5 @@ My to-build list is longer than my free time, but a few things have made it out 
 ---
 
 <!-- QUOTE:START -->
-*“I don’t hate it. I just don’t like it at all and it’s terrible.” — Michael Scott*
+*“I wanted to eat a pig in a blanket, in a blanket.” — Kevin Malone*
 <!-- QUOTE:END -->
