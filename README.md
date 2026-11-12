@@ -31,5 +31,5 @@ My to-build list is longer than my free time, but a few things have made it out 
 ---
 
 <!-- QUOTE:START -->
-*“I just want to lie on the beach and eat hot dogs. That’s all I’ve ever wanted.” — Kevin Malone*
+*“Tell him to call me ASAP as possible.” — Michael Scott*
 <!-- QUOTE:END -->
