@@ -31,5 +31,5 @@ My to-build list is longer than my free time, but a few things have made it out 
 ---
 
 <!-- QUOTE:START -->
-*“Tell him to call me ASAP as possible.” — Michael Scott*
+*“There are always a million reasons not to do something.” — Jan Levinson*
 <!-- QUOTE:END -->
