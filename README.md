@@ -31,5 +31,5 @@ My to-build list is longer than my free time, but a few things have made it out 
 ---
 
 <!-- QUOTE:START -->
-*“The only problem is whenever I try to make a taco, I get too excited and crush it.” — Kevin Malon*
+*“I wanna do a cartwheel. But real casual-like. Not enough to make a big deal out of it, but I know everyone saw it. One stunning, gorgeous cartwheel.” — Creed Bratton*
 <!-- QUOTE:END -->
