@@ -31,5 +31,5 @@ My to-build list is longer than my free time, but a few things have made it out 
 ---
 
 <!-- QUOTE:START -->
-*“I’m fast. To give you a reference point. I’m somewhere between a snake and a mongoose. And a panther.” — Dwight Schrute*
+*“I am a black belt in gift wrapping.” — Jim Halpert*
 <!-- QUOTE:END -->
