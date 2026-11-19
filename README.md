@@ -31,5 +31,5 @@ My to-build list is longer than my free time, but a few things have made it out 
 ---
 
 <!-- QUOTE:START -->
-*“I am a black belt in gift wrapping.” — Jim Halpert*
+*“There’s a lot of beauty in ordinary things. Isn’t that kind of the point?” — Pam Beesly*
 <!-- QUOTE:END -->
