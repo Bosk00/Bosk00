@@ -31,5 +31,5 @@ My to-build list is longer than my free time, but a few things have made it out 
 ---
 
 <!-- QUOTE:START -->
-*“There’s a lot of beauty in ordinary things. Isn’t that kind of the point?” — Pam Beesly*
+*“The worst thing about prison was the dementors.” — Michael Scott*
 <!-- QUOTE:END -->
