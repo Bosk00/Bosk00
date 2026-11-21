@@ -31,5 +31,5 @@ My to-build list is longer than my free time, but a few things have made it out 
 ---
 
 <!-- QUOTE:START -->
-*“The worst thing about prison was the dementors.” — Michael Scott*
+*“There are always a million reasons not to do something.” — Jan Levinson*
 <!-- QUOTE:END -->
