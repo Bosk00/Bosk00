@@ -31,5 +31,5 @@ My to-build list is longer than my free time, but a few things have made it out 
 ---
 
 <!-- QUOTE:START -->
-*“News flash: You are not special.” — Stanley Hudson*
+*“Bob Vance, Vance Refrigeration.” — Bob Vance*
 <!-- QUOTE:END -->
